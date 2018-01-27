@@ -1,0 +1,157 @@
+body {background-image: 
+  url(http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/11/Cool-Wallpapers-For-Mac-HD-Background.jpg);
+  width: 960px
+  margin:0;
+  background-color: #ffffff;
+ }
+
+.sizer{
+  width: 960px;
+  margin: 0 auto;
+}
+img{width: 270px;
+margin-top: 20px;
+border-radius: 20px;}
+
+.nav {
+  margin-top: px;
+  overflow: hidden;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgdlXqK5_56BVxxY8UNAjh_AW0J5bv6a8yPyKKvpSHdAJpsbuteQ);
+  border-radius: 20px;
+}
+
+.nav a {
+  border-right: solid grey;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgdlXqK5_56BVxxY8UNAjh_AW0J5bv6a8yPyKKvpSHdAJpsbuteQ);
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: ;
+  font-size: 20px;
+}
+
+.nav a:hover {
+  background-color: grey;
+  color: #f442e5;
+  border-radius: 20px;
+}
+
+.nav a.active {
+  width: 650px
+  background-color: #4aaaa5; <!--jdndi -->
+  color: red;
+}
+.move{float: right;
+color: white;}
+#name{ 
+  padding-top: px;
+  color: white;
+  border-radius: ;
+}
+.stack{height: 60px;
+  margin-left: 70px;
+width: 60px;
+margin-bottom: 50px;}
+.hub{height: 60px;
+width: 60px;
+margin-bottom: 50px;
+margin-left: 90px;}
+.me{height: 150px;
+width: 150px;}
+.link{height: 60px;
+  margin-left: 60px;
+width: 60px;
+margin-bottom: 50px;}
+.section {
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+  float: right;
+  clear: right;
+  height: 400px;
+    width: 650px;
+    float: left;
+    margin-top: 40px;
+    padding-bottom: 30px;}
+    p{padding: 10px}
+    h2{padding: 10px;}
+.aside {
+  background-color: black;
+  margin-top: 40px;
+  border-radius: 20px;
+  float: right;
+  clear: right;
+  width: 270px;
+  float: right;
+  clear: right;
+  color: white;
+}
+.aside.icons{width: 10px;
+height: 10px;}
+.stuff {
+  float: left;
+
+}
+p{font-size: 19px;}
+
+.icons{float: left;}
+
+.icon{margin-top: 20px;}
+
+.clearfix::after {
+  width: 960px;
+    content: "";
+    clear: both;
+    display: table;
+}
+footer {
+    position: fixed;
+    height: 40px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+}
+h2 {
+  color: #4ece9f;
+}
+/*contact css*/
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #4ece9f;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #f442e5;
+}
+
+.awsome {
+    border-radius: 5px;
+    background-color: black;
+    padding: 20px;
+}
+/*portfolio*/
+.port{margin-left: 40px;
+  padding-bottom: 30px;
+
+}
+  
